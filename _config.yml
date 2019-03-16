@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 意识存档
+title: 噪音存档
 author: 杨卓
 email: destroy314@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  储存着从我脑中随机产生的杂乱信息，以防它们消失。内容基本上是随机的，质量也是。
+  博客是写给自己看的
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: destroy314
@@ -28,6 +28,8 @@ minima:
 # Build settings
 markdown: kramdown
 theme: minima
+show_excerpts: True
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
