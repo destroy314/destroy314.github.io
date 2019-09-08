@@ -19,7 +19,7 @@ print_hi('Tom')
 ---
     单行文本   
   
-<blockquote>引用</blockquote>
+> 引用
 
 **粗体**  
 ![头像](../resource/pic.jpg "通用头像")  
