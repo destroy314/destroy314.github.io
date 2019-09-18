@@ -4,6 +4,7 @@ title: "信息化作战概论"
 permalink: /:title
 ---
 战争的新时代已经到来，我们不能让自己对战争的概念停留在几十年前。  
+
 ### 绪论
 那么，到底什么是信息化作战？它有什么特别之处？绪论中的这一段做了简明的介绍：  
 ![简介](../resource\2019-09-18-On_Informationalized_Operations\1.jpg "简介") 
